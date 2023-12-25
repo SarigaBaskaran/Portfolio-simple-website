@@ -11,10 +11,3 @@ CSS
 How to View
 To explore my portfolio, simply visit Link. Feel free to provide feedback or get in touch!
 
-
-
-Getting Started
-If you'd like to run this locally or contribute, follow these steps:
-
-Clone the repository: git clone https://github.com/your-username/your-portfolio.git
-Open the index.html file in your preferred browser.
